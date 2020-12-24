@@ -1,6 +1,6 @@
 # Minesweeper Generator and Solver
 
-There are two major components to this project, obvious from its name:
+There are two major components to this project, drawing from its name:
 
 * **Real time grid generator**: Interface to spontaeously generate masked Minesweeper grids of any size and any specification for the training of an AI model
   * This is helpful when trying to train predictive models to solve Minesweeper games
