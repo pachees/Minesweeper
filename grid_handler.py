@@ -15,7 +15,8 @@ class grid_handler:
     
     def main(rmajor = 20, cmajor = 20, nmastergrids = 50, nmirrors = 20):
         
-        
+        """Documentation pending"""
+	
         #maxpossnmines = rmajor*cmajor - 1 #maximum possible number of mines in any of these examples
         
         #Minesidxs = np.empty((nmastergrids,maxpossnmines,2),dtype=int)
